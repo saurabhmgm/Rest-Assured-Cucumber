@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="User Login" skipped="0" tests="2" time="4.4" timestamp="2018-08-15T14:41:27.593+10:00[Australia/Sydney]"><testcase name="User should be able to login successfully"/><testcase name="User should be notified for Invalid login"/></testsuite>
